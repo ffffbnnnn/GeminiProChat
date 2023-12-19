@@ -1,0 +1,4 @@
+curl \
+   -H 'Content-Type: application/json' \
+   -d '{ "prompt": { "text": "Write a story about a magic backpack"} }' \
+   "https://{https://vercel.com/nic-funs-projects/yy/2nbgBR6CvYCpUR8XUCUSHD6REtJA}/v1beta3/models/text-bison-001:generateText?key={AIzaSyDW7PLp-6g1gK5XGP4doYHeRItnEf2uKEA}"
